@@ -1,0 +1,89 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/fullstack.png",
+      "title": "Fullstack Development: ",
+      "description": "Proficient in both front and backend development using PHP (Laravel), Java (Spring Boot), Python (Django, Flask), and JS (React.js, Next.js). I bring extensive experience in crafting, high-performance applications across multiple technology."
+    },
+    {
+      "id": "2",
+      "src": "./img/cloud.png",
+      "title": "Cloud Solutions",
+      "description": "Skilled in deploying and managing applications on AWS, Azure, DigitalOcean, IBM Cloud, Heroku, Linode, and Kamatera. I excel in leveraging these cloud platforms to architect scalable, high-performance solutions tailored to specific needs. "
+    },
+    {
+      "id": "3",
+      "src": "./img/devops.png",
+      "title": "DevOps",
+      "description": "Experienced in containerization with Docker and implementing CI/CD pipelines with Jenkins. I also have expertise in Kubernetes for orchestrating containerized applications, ensuring scalability and reliability across cloud environments."
+    },
+    {
+      "id": "4",
+      "src": "./img/payments.png",
+      "title": "Payment Integration",
+      "description": "Extensive expertise in integrating payment solutions with APIs for Airtel, MTN, Zamtel, Mastercard, and Visa. I have a proven track record of implementing secure payment gateways, ensuring compliance with industry standards and regulations."
+    },
+    {
+      "id": "5",
+      "src": "./img/api.png",
+      "title": "API Development",
+      "description": "Strong background in designing and building RESTful APIs and working with GraphQL. Adept at creating robust, scalable RESTful APIs that adhere to best practices for performance, security, and maintainability"
+    },
+    {
+      "id": "6",
+      "src": "./img/database.png",
+      "title": "Database Management",
+      "description": "Proficient in managing databases such as MySQL, PostgreSQL, MongoDB, Oracle, MS SQL Server, RavenDB, Firebase, and Redis. Experienced in database programming, including PL/SQL, to develop and optimize complex queries and procedures."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
